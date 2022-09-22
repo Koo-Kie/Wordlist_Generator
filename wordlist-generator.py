@@ -1,5 +1,3 @@
-from logging import raiseExceptions
-from msilib.schema import Error
 import sys, os
 from itertools import product
 
